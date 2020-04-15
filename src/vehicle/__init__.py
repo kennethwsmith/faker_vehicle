@@ -15,6 +15,51 @@ class WebProvider(BaseProvider):
     """
     all_mime_types = mime_types
 
+    popular_makes = (
+        'Ford',
+        'Toyota',
+        'Volkswagen',
+        'Chevrolet'
+    )
+
+    popular_models = (
+        'G80',
+        'Mustang',
+        'Passat',
+        'F150',
+    )
+
+    # popular_make_models = (
+    #     'Genesis G80',
+    #     'Ford Mustang',
+    #     'Volkswagen Passat',
+    #     'Ford F150',
+    # )
+
+    make_models = {
+        'Ford': [
+            'F150',
+            'Mustang'
+        ],
+        'Chevrolet': [
+            'Tahoe',
+            'Camaro'
+        ]
+    }
+
+    def make_model(self):
+        """
+        Returns a vehicle make and model
+
+        >>> fake.make_model()
+        Chevrolet Camaro
+
+        :return: make-model
+        :rtype: str
+        """
+        return self.random_element(self.make_models.keys())
+
+
     popular_mime_types = {
         'application/javascript': ['js'],
         'application/json': ['json'],

@@ -55,7 +55,7 @@ setup(
     url='https://github.com/kennethwsmith/faker_vehicle',
     license='Apache License, Version 2.0',
     package_dir={'faker_vehicle': 'src/vehicle'},
-    packages=['faker_veh'],
+    packages=['faker_vehicle'],
     platforms=['any'],
     test_suite='pytest',
     zip_safe=zip_safe,
