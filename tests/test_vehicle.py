@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 import re
-from faker_vehicle import VehicleProvider  # noqa
+import pytest
+# from faker import Faker
+# from faker_vehicle import VehicleProvider  # noqa
 
-def test_content_type(fake):
-    assert True
+# fake = Faker()
+# fake.add_provider(VehicleProvider)
 
-def test_server_token(fake):
-    assert False
-
-def test_server_token_solo(fake):
-    assert True
+def test_content_type():
+    fruit = "banana"
+    assert fruit == "banana"

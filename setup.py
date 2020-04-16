@@ -57,10 +57,6 @@ setup(
     package_dir={'faker_vehicle': 'src/vehicle'},
     packages=['faker_vehicle'],
     platforms=['any'],
-    test_suite='pytest',
     zip_safe=zip_safe,
-    setup_requires=['pytest-runner'],
-    tests_require=tests_require,
     install_requires=['faker'],
-    extras_require={'test': tests_require},
 )

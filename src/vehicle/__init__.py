@@ -2,7 +2,6 @@
 from faker.providers import BaseProvider
 from random import randint
 from .vehicle_dict import vehicles
-
 class VehicleProvider(BaseProvider):
     """
     A Provider for vehicle related test data.
