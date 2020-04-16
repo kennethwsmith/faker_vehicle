@@ -8,4 +8,4 @@ faker_vehicle.egg-info/requires.txt
 faker_vehicle.egg-info/top_level.txt
 faker_vehicle.egg-info/zip-safe
 src/vehicle/__init__.py
-src/vehicle/mimetypes.py
+src/vehicle/vehicle_dict.py

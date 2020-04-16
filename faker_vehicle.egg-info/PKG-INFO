@@ -1,12 +1,13 @@
 Metadata-Version: 2.1
 Name: faker-vehicle
 Version: 0.1.0
-Summary: Vehicle related provider for the Faker Python package.
-Home-page: https://github.com/kennethwsmith/faker-vehicle
+Summary: Vehicle related Provider for the Faker Python package.
+Home-page: https://github.com/kennethwsmith/faker_vehicle
 Author: kennethwsmith
 Author-email: kennethwsmith+fakerveh@gmail.com
 License: Apache License, Version 2.0
-Description: faker_vehicle        =========
+Description: faker_vehicle
+        =========
         
          |pypi| |unix_build| |coverage| |license|
         
@@ -14,9 +15,13 @@ Description: faker_vehicle        =========
         
         It provides vehicle related fake data for testing purposes:
         
-           * Vehicle Makes
-           * Vehicle Models
-           * Vehicle Make / Model pairs
+            * Vehicle Make
+            * Vehicle Model
+            * Vehicle Make / Model
+            * Vehicle Make / Model / Year
+            * Vehicle Make / Model / Category
+            * Vehicle Year
+            * Vehicle Object (you can format)
         
         Usage
         -----
@@ -43,7 +48,7 @@ Description: faker_vehicle        =========
         
             fake = Faker()
             fake.add_provider(VehicleProvider)
- 
+        
             fake.vehicle_year_make_model()
             # 2014 Volkswagen Golf
             fake.vehicle_year_make_model_cat()
@@ -60,8 +65,7 @@ Description: faker_vehicle        =========
             # Wagon
             json.dumps(fake.vehicle_object())
             # {"Year": 1996, "Make": "Chrysler", "Model": "New Yorker", "Category": "Sedan"}
-        
-        
+            
         .. |pypi| image:: https://img.shields.io/pypi/v/faker_vehicle.svg?style=flat-square&label=version
             :target: https://pypi.python.org/pypi/faker_vehicle
             :alt: Latest version released on PyPi

@@ -1,5 +1,5 @@
 faker_vehicle
-=========
+=============
 
  |pypi| |unix_build| |coverage| |license|
 
