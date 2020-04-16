@@ -4,7 +4,7 @@ Version: 0.1.0
 Summary: Vehicle related provider for the Faker Python package.
 Home-page: https://github.com/kennethwsmith/faker-vehicle
 Author: kennethwsmith
-Author-email: kennethwsmith+fakerweb@gmail.com
+Author-email: kennethwsmith+fakerveh@gmail.com
 License: Apache License, Version 2.0
 Description: faker_vehicle        =========
         
@@ -34,22 +34,32 @@ Description: faker_vehicle        =========
             git clone https://github.com/kennethwsmith/faker_vehicle.git
             cd faker_vehicle && python setup.py install
         
-        Add the ``WebProvider`` to your ``Faker`` instance:
+        Add the ``VehicleProvider`` to your ``Faker`` instance:
         
         .. code:: python
         
             from faker import Faker
-            from faker_vehicle import WebProvider
+            from faker_vehicle import VehicleProvider
         
             fake = Faker()
-            fake.add_provider(WebProvider)
+            fake.add_provider(VehicleProvider)
  
-            fake.vehicle_make()
-            # Ford
-            fake.vehicle_model()
-            # F150
+            fake.vehicle_year_make_model()
+            # 2014 Volkswagen Golf
+            fake.vehicle_year_make_model_cat()
+            # 1996 Dodge Ram Wagon 1500 (Van/Minivan)
             fake.vehicle_make_model()
-            # Ford F150
+            # Volvo V40
+            fake.vehicle_make()
+            # BMW
+            fake.vehicle_model()
+            # SL
+            fake.vehicle_year()
+            # 2008
+            fake.vehicle_category()
+            # Wagon
+            json.dumps(fake.vehicle_object())
+            # {"Year": 1996, "Make": "Chrysler", "Model": "New Yorker", "Category": "Sedan"}
         
         
         .. |pypi| image:: https://img.shields.io/pypi/v/faker_vehicle.svg?style=flat-square&label=version
