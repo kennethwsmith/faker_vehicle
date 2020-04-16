@@ -7,10 +7,13 @@ faker_vehicle is a provider for the `Faker`_ Python package.
 
 It provides vehicle related fake data for testing purposes:
 
-    * Vehicle Makes
-    * Vehicle Models
-    * Vehicle Make / Model pairs
-    * Vehicle Years
+    * Vehicle Make
+    * Vehicle Model
+    * Vehicle Make / Model
+    * Vehicle Make / Model / Year
+    * Vehicle Make / Model / Category
+    * Vehicle Year
+    * Vehicle Object (you can format)
 
 Usage
 -----
