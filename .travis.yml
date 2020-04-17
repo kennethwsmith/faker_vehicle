@@ -6,6 +6,6 @@ install:
   - pip install -r requirements.txt
 # command to run tests
 script:
-  - pytest --cov=faker_vehicle tests/
+  - py.test tests/ --doctest-modules --cov coveralls --cov-report term-missing
 after_success:
   - coveralls
