@@ -1,6 +1,6 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.1
 Name: faker-vehicle
-Version: 0.1.0
+Version: 0.1.1
 Summary: Vehicle related Provider for the Faker Python package.
 Home-page: https://github.com/kennethwsmith/faker_vehicle
 Author: kennethwsmith
@@ -100,4 +100,3 @@ Classifier: Topic :: Software Development :: Libraries :: Python Modules
 Classifier: Topic :: Software Development :: Testing
 Classifier: Topic :: Utilities
 Classifier: License :: OSI Approved :: Apache Software License
-Provides-Extra: test
