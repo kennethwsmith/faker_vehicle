@@ -14,7 +14,7 @@ def test_year(fake,years):
 
 def test_model(fake,models):
     model = fake.vehicle_model()
-    assert len(model) > 1
+    assert len(model) >= 1
     assert model in models
 
 def test_category(fake,categories):
