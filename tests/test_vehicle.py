@@ -2,6 +2,12 @@
 import re
 import pytest
 
+def test_vehicles(fake,vehicles):
+    assert len(vehicles) > 1
+    v = vehicles[0]
+    assert 'Make' in v.keys()
+    assert 'Model' in v.keys()
+
 def test_make(fake,makes):
     make = fake.vehicle_make()
     assert len(make) > 1

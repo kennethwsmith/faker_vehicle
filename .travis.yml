@@ -8,5 +8,5 @@ install:
 script:
   - py.test
 after_success:
-  - coverage
+  - coverage run --source=src -m pytest
   - coveralls
