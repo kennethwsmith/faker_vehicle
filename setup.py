@@ -15,6 +15,7 @@ tests_require = [
     'pytest-cov',
     'pytest-flakes',
     'pytest-pep8',
+    'faker'
 ]
 
 # this module can be zip-safe if the zipimporter implements iter_modules or if
