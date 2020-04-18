@@ -14,7 +14,7 @@ class VehicleProvider(BaseProvider):
 
     def vehicle_object(self):
         # Returns a random vehicle dict example: {"Year": 2008, "Make": "Jeep", "Model": "Wrangler", "Category": "SUV"}
-        randItem = randint(1,len(vehicles))
+        randItem = randint(0,len(vehicles)-1)
         veh = vehicles[randItem]
         return veh
 
