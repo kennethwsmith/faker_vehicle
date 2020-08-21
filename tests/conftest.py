@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 import os
-import pytest
 import sys
-import json
 
+import pytest
 from faker import Faker
 
 local_path = os.path.dirname(os.path.abspath(__file__))
