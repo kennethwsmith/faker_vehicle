@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 import os
-import pytest
 import sys
-import json
 
+import pytest
 from faker import Faker
 
 local_path = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(local_path, '..'))
 from src.vehicle import VehicleProvider  # noqa
+
 
 @pytest.fixture(scope='module')
 def fake():
@@ -16,11 +16,13 @@ def fake():
     fixture.add_provider(VehicleProvider)
     return fixture
 
+
 @pytest.fixture
 def vehicles():
     from src.vehicle.vehicle_dict import vehicles as vd
     fixture = vd
     return fixture
+
 
 @pytest.fixture
 def years():
@@ -32,6 +34,7 @@ def years():
     fixture = year_dict
     return fixture
 
+
 @pytest.fixture
 def models():
     from src.vehicle.vehicle_dict import vehicles as vd
@@ -42,6 +45,7 @@ def models():
     fixture = model_dict
     return fixture
 
+
 @pytest.fixture
 def categories():
     from src.vehicle.vehicle_dict import vehicles as vd
@@ -51,6 +55,7 @@ def categories():
     cat_dict = list(set(cat_dict))
     fixture = cat_dict
     return fixture
+
 
 @pytest.fixture
 def makes():

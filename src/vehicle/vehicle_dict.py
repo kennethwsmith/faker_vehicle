@@ -5998,9 +5998,7 @@ vehicles = [
     "Make": "Porsche",
     "Model": "718 Cayman",
     "Category": "Coupe"
-  }
-,
-
+  },
   {
     "Year": 2018,
     "Make": "Nissan",
@@ -12000,9 +11998,7 @@ vehicles = [
     "Make": "Cadillac",
     "Model": "ATS",
     "Category": "Sedan, Coupe"
-  }
-,
-
+  },
   {
     "Year": 2015,
     "Make": "Chevrolet",
@@ -18002,9 +17998,7 @@ vehicles = [
     "Make": "Subaru",
     "Model": "Tribeca",
     "Category": "SUV"
-  }
-,
-
+  },
   {
     "Year": 2013,
     "Make": "smart",
@@ -24004,9 +23998,7 @@ vehicles = [
     "Make": "Mitsubishi",
     "Model": "Galant",
     "Category": "Sedan"
-  }
-,
-
+  },
   {
     "Year": 2010,
     "Make": "Mitsubishi",
@@ -30006,9 +29998,7 @@ vehicles = [
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
     "Category": "Pickup"
-  }
-,
-
+  },
   {
     "Year": 2007,
     "Make": "Honda",
@@ -36008,9 +35998,7 @@ vehicles = [
     "Make": "Ford",
     "Model": "Freestar Cargo",
     "Category": "Van/Minivan"
-  }
-,
-
+  },
   {
     "Year": 2004,
     "Make": "Ford",
@@ -42010,9 +41998,7 @@ vehicles = [
     "Make": "Isuzu",
     "Model": "Rodeo",
     "Category": "SUV"
-  }
-,
-
+  },
   {
     "Year": 2001,
     "Make": "Hyundai",
@@ -48012,9 +47998,7 @@ vehicles = [
     "Make": "Chevrolet",
     "Model": "G-Series 3500",
     "Category": "Van/Minivan"
-  }
-,
-
+  },
   {
     "Year": 1997,
     "Make": "Chevrolet",
@@ -54014,9 +53998,7 @@ vehicles = [
     "Make": "Suzuki",
     "Model": "Samurai",
     "Category": "SUV"
-  }
-,
-
+  },
   {
     "Year": 1994,
     "Make": "Toyota",
