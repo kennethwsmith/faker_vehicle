@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
-from faker.providers import BaseProvider
 from random import randint
+
+from faker.providers import BaseProvider
+
 from .vehicle_dict import vehicles
+
+
 class VehicleProvider(BaseProvider):
     """
     A Provider for vehicle related test data.
