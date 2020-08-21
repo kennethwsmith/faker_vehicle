@@ -15,6 +15,7 @@ tests_require = [
     'pytest-cov',
     'pytest-flakes',
     'pytest-pep8',
+    'pytest-flake8',
     'faker'
 ]
 
