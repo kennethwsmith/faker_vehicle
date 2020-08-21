@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
-from random import randint
 
+from random import choice
 from faker.providers import BaseProvider
-
 from .vehicle_dict import vehicles
-
 
 class VehicleProvider(BaseProvider):
     """
@@ -21,8 +19,7 @@ class VehicleProvider(BaseProvider):
         Returns a random vehicle dict example:
         {"Year": 2008, "Make": "Jeep", "Model": "Wrangler", "Category": "SUV"}
         """
-        randItem = randint(0, len(vehicles) - 1)
-        veh = vehicles[randItem]
+        veh = choice(vehicles)
         return veh
 
     def vehicle_year_make_model(self):
