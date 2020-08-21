@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-import re
-import pytest
 
 def test_vehicles(fake,vehicles):
     assert len(vehicles) > 1
