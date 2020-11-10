@@ -3,6 +3,7 @@
 from random import choice
 from faker.providers import BaseProvider
 from .vehicle_dict import vehicles
+from .machine_dict import machinery
 
 class VehicleProvider(BaseProvider):
     """
@@ -68,3 +69,58 @@ class VehicleProvider(BaseProvider):
         """Returns Category example: SUV"""
         veh = self.vehicle_object()
         return veh.get('Category')
+
+    def machine_object(self):
+        """
+        Returns a random machine dict example:
+        {"Year": 2008, "Make": "Caterpillar", "Model": "5511C", "Category": "Feller Buncher"}
+        """
+        machine = choice(machinery)
+        return machine
+
+    def machine_year_make_model(self):
+        """Returns Year Make Model example: 2008 Caterpillar 5511C"""
+        machine = self.machine_object()
+        year = machine.get('Year')
+        make = machine.get('Make')
+        model = machine.get('Model')
+        return str(year) + ' ' + make + ' ' + model
+
+    def machine_year_make_model_cat(self):
+        """
+        Returns Year Make Model Cat example:
+        2008 Caterpillar 5511C (Feller Buncher)
+        """
+        machine = self.machine_object()
+        year = machine.get('Year')
+        make = machine.get('Make')
+        model = machine.get('Model')
+        cat = machine.get('Category')
+        return str(year) + ' ' + make + ' ' + model + ' (' + cat + ')'
+
+    def machine_make_model(self):
+        """Returns Make Model example: Caterpillar 5511C"""
+        machine = self.machine_object()
+        make = machine.get('Make')
+        model = machine.get('Model')
+        return make + ' ' + model
+
+    def machine_make(self):
+        """Returns Make example: Caterpillar"""
+        machine = self.machine_object()
+        return machine.get('Make')
+
+    def machine_year(self):
+        """Returns Year example: 2008"""
+        machine = self.machine_object()
+        return str(machine.get('Year'))
+
+    def machine_model(self):
+        """Returns Model example: 5511C"""
+        machine = self.machine_object()
+        return machine.get('Model')
+
+    def machine_category(self):
+        """Returns Category example: Feller Buncher"""
+        machine = self.machine_object()
+        return machine.get('Category')

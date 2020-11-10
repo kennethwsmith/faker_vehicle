@@ -66,3 +66,55 @@ def makes():
     make_dict = list(set(make_dict))
     fixture = make_dict
     return fixture
+
+#equipment
+
+@pytest.fixture
+def machinery():
+    from src.vehicle.machine_dict import machinery as ma
+    fixture = ma
+    return fixture
+
+
+@pytest.fixture
+def machine_years():
+    from src.vehicle.machine_dict import machinery as ma
+    year_dict = []
+    for mach in ma:
+        year_dict.append(int(mach['Year']))
+    year_dict = list(set(year_dict))
+    fixture = year_dict
+    return fixture
+
+
+@pytest.fixture
+def machine_models():
+    from src.vehicle.machine_dict import machinery as ma
+    model_dict = []
+    for mach in ma:
+        model_dict.append(mach['Model'])
+    model_dict = list(set(model_dict))
+    fixture = model_dict
+    return fixture
+
+
+@pytest.fixture
+def machine_categories():
+    from src.vehicle.machine_dict import machinery as ma
+    cat_dict = []
+    for mach in ma:
+        cat_dict.append(mach['Category'])
+    cat_dict = list(set(cat_dict))
+    fixture = cat_dict
+    return fixture
+
+
+@pytest.fixture
+def machine_makes():
+    from src.vehicle.machine_dict import machinery as ma
+    make_dict = []
+    for mach in ma:
+        make_dict.append(mach['Make'])
+    make_dict = list(set(make_dict))
+    fixture = make_dict
+    return fixture

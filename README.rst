@@ -5,7 +5,7 @@ faker_vehicle
 
 faker_vehicle is a provider for the `Faker`_ Python package.
 
-It provides vehicle related fake data for testing purposes:
+It provides vehicle and machinery related fake data for testing purposes:
 
     * Vehicle Make
     * Vehicle Model
@@ -14,6 +14,14 @@ It provides vehicle related fake data for testing purposes:
     * Vehicle Make / Model / Category
     * Vehicle Year
     * Vehicle Object (you can format)
+
+    * Machine Make
+    * Machine Model
+    * Machine Make / Model
+    * Machine Make / Model / Year
+    * Machine Make / Model / Category
+    * Machine Year
+    * Machine Object (you can format)
 
 Usage
 -----
@@ -58,6 +66,23 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     json.dumps(fake.vehicle_object())
     # {"Year": 1996, "Make": "Chrysler", "Model": "New Yorker", "Category": "Sedan"}
     
+    fake.machine_year_make_model()
+    # 2008 Caterpillar 5511C
+    fake.machine_year_make_model_cat()
+    # 2008 Caterpillar 5511C (Feller Buncher)
+    fake.machine_make_model()
+    # Caterpillar 5511C
+    fake.machine_make()
+    # Caterpillar
+    fake.machine_model()
+    # 5511C
+    fake.machine_year()
+    # 2008
+    fake.machine_category()
+    # Feller Buncher
+    json.dumps(fake.machine_object())
+    # {"Year": 2008, "Make": "Caterpillar", "Model": "5511C", "Category": "Feller Buncher"}
+
 .. |pypi| image:: https://img.shields.io/pypi/v/faker_vehicle.svg?style=flat-square&label=version
     :target: https://pypi.python.org/pypi/faker_vehicle
     :alt: Latest version released on PyPi
