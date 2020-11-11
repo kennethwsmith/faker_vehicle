@@ -5,6 +5,8 @@ import sys
 import pytest
 from faker import Faker
 
+# python3 -m pytest tests/
+
 local_path = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(local_path, '..'))
 from src.vehicle import VehicleProvider  # noqa
