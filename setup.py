@@ -8,7 +8,7 @@ from setuptools import setup
 here = os.path.abspath(os.path.dirname(__file__))
 README = io.open(os.path.join(here, 'README.rst'), encoding="utf8").read()
 
-version = '0.1.3'
+version = '0.2.0'
 
 tests_require = [
     'pytest',
