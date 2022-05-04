@@ -33,7 +33,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -51,7 +51,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -69,7 +69,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -129,7 +129,7 @@ vehicles = [
     "Year": 2020,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -225,13 +225,13 @@ vehicles = [
     "Year": 2020,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
     "Make": "Jeep",
     "Model": "Gladiator",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -261,7 +261,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -315,7 +315,7 @@ vehicles = [
     "Year": 2020,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -333,7 +333,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -375,7 +375,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Ford",
     "Model": "Ranger SuperCab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -417,7 +417,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -525,7 +525,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Ford",
     "Model": "Ranger SuperCrew",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -1071,13 +1071,13 @@ vehicles = [
     "Year": 2020,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -1167,7 +1167,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -1233,7 +1233,7 @@ vehicles = [
     "Year": 2020,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -1275,19 +1275,19 @@ vehicles = [
     "Year": 2020,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2020,
@@ -1677,7 +1677,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -1803,7 +1803,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -1827,7 +1827,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -1839,13 +1839,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -1857,25 +1857,25 @@ vehicles = [
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 LD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -1893,7 +1893,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -1983,7 +1983,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2055,13 +2055,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2085,19 +2085,19 @@ vehicles = [
     "Year": 2019,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2109,19 +2109,19 @@ vehicles = [
     "Year": 2019,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ford",
     "Model": "Ranger SuperCab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2145,7 +2145,7 @@ vehicles = [
     "Year": 2019,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2181,7 +2181,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Ford",
     "Model": "Ranger SuperCrew",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2193,13 +2193,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2235,13 +2235,13 @@ vehicles = [
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 1500 Limited Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2277,13 +2277,13 @@ vehicles = [
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2295,19 +2295,19 @@ vehicles = [
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2337,7 +2337,7 @@ vehicles = [
     "Year": 2019,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -2385,7 +2385,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3189,7 +3189,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Nissan",
     "Model": "TITAN XD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3225,7 +3225,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3243,13 +3243,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3309,7 +3309,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Nissan",
     "Model": "TITAN Single Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3327,7 +3327,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3339,7 +3339,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Nissan",
     "Model": "TITAN XD Single Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3351,13 +3351,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Nissan",
     "Model": "TITAN XD King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3369,13 +3369,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ram",
     "Model": "1500 Classic Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3393,13 +3393,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Ram",
     "Model": "1500 Classic Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ram",
     "Model": "1500 Classic Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3417,25 +3417,25 @@ vehicles = [
     "Year": 2019,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3447,7 +3447,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3531,7 +3531,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3633,7 +3633,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3663,13 +3663,13 @@ vehicles = [
     "Year": 2019,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -3681,7 +3681,7 @@ vehicles = [
     "Year": 2019,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2019,
@@ -4233,7 +4233,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4263,7 +4263,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4317,7 +4317,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4335,7 +4335,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4347,13 +4347,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4383,13 +4383,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4425,13 +4425,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4455,7 +4455,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4563,7 +4563,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4599,19 +4599,19 @@ vehicles = [
     "Year": 2018,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4635,13 +4635,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4653,7 +4653,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4671,13 +4671,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4701,7 +4701,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4821,13 +4821,13 @@ vehicles = [
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4851,7 +4851,7 @@ vehicles = [
     "Year": 2018,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4863,13 +4863,13 @@ vehicles = [
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4881,13 +4881,13 @@ vehicles = [
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4905,7 +4905,7 @@ vehicles = [
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4917,13 +4917,13 @@ vehicles = [
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -4935,7 +4935,7 @@ vehicles = [
     "Year": 2018,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5049,7 +5049,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5775,7 +5775,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5811,7 +5811,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5871,7 +5871,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "TITAN XD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5895,7 +5895,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5913,7 +5913,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "TITAN XD Single Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5931,7 +5931,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "TITAN XD King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -5943,7 +5943,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "TITAN Single Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6003,7 +6003,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6015,13 +6015,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6039,13 +6039,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6069,7 +6069,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6081,13 +6081,13 @@ vehicles = [
     "Year": 2018,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6111,7 +6111,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6153,7 +6153,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6291,7 +6291,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6303,7 +6303,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6321,7 +6321,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6333,7 +6333,7 @@ vehicles = [
     "Year": 2018,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2018,
@@ -6867,13 +6867,13 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -6891,7 +6891,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -6957,7 +6957,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -6969,7 +6969,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -6981,7 +6981,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7005,7 +7005,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7017,7 +7017,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7047,7 +7047,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7095,7 +7095,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7113,7 +7113,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7251,13 +7251,13 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7275,7 +7275,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7287,7 +7287,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7311,7 +7311,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7347,7 +7347,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7365,7 +7365,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7383,7 +7383,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7401,19 +7401,19 @@ vehicles = [
     "Year": 2017,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7473,7 +7473,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7515,7 +7515,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7527,7 +7527,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7557,7 +7557,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7569,7 +7569,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7581,7 +7581,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7593,7 +7593,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7605,7 +7605,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7623,7 +7623,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7653,7 +7653,7 @@ vehicles = [
     "Year": 2017,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -7707,7 +7707,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8493,13 +8493,13 @@ vehicles = [
     "Year": 2017,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8577,7 +8577,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8595,7 +8595,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8607,25 +8607,25 @@ vehicles = [
     "Year": 2017,
     "Make": "Nissan",
     "Model": "TITAN XD Single Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8637,7 +8637,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Nissan",
     "Model": "TITAN XD King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8655,7 +8655,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8685,7 +8685,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Nissan",
     "Model": "TITAN XD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8697,7 +8697,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8709,7 +8709,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Nissan",
     "Model": "TITAN Single Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8727,7 +8727,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8775,13 +8775,13 @@ vehicles = [
     "Year": 2017,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8835,7 +8835,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8931,7 +8931,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8973,7 +8973,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -8985,13 +8985,13 @@ vehicles = [
     "Year": 2017,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -9003,7 +9003,7 @@ vehicles = [
     "Year": 2017,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2017,
@@ -9537,7 +9537,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9561,7 +9561,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9633,7 +9633,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9645,25 +9645,25 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9687,7 +9687,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9699,7 +9699,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9717,7 +9717,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9753,7 +9753,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9855,7 +9855,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9867,7 +9867,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9945,13 +9945,13 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9963,7 +9963,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -9993,7 +9993,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10005,13 +10005,13 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10041,7 +10041,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10065,13 +10065,13 @@ vehicles = [
     "Year": 2016,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10089,7 +10089,7 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10101,7 +10101,7 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10119,7 +10119,7 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10131,13 +10131,13 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10149,13 +10149,13 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10173,7 +10173,7 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10185,7 +10185,7 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10215,7 +10215,7 @@ vehicles = [
     "Year": 2016,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -10989,7 +10989,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11007,7 +11007,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11037,7 +11037,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11061,7 +11061,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Nissan",
     "Model": "TITAN XD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11097,7 +11097,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11127,7 +11127,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11151,7 +11151,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11163,7 +11163,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11187,7 +11187,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11217,13 +11217,13 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11235,7 +11235,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11415,25 +11415,25 @@ vehicles = [
     "Year": 2016,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11457,7 +11457,7 @@ vehicles = [
     "Year": 2016,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2016,
@@ -11919,7 +11919,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -11979,7 +11979,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12039,7 +12039,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12051,7 +12051,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12063,13 +12063,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12087,7 +12087,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12099,7 +12099,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12111,13 +12111,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12129,7 +12129,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12273,13 +12273,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12297,13 +12297,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12315,7 +12315,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12357,25 +12357,25 @@ vehicles = [
     "Year": 2015,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12393,7 +12393,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12411,7 +12411,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12453,7 +12453,7 @@ vehicles = [
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12483,7 +12483,7 @@ vehicles = [
     "Year": 2015,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12519,19 +12519,19 @@ vehicles = [
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12543,7 +12543,7 @@ vehicles = [
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12567,7 +12567,7 @@ vehicles = [
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12585,7 +12585,7 @@ vehicles = [
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -12597,13 +12597,13 @@ vehicles = [
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13335,13 +13335,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13401,7 +13401,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13425,7 +13425,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13497,7 +13497,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13509,7 +13509,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13521,13 +13521,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13539,13 +13539,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13617,7 +13617,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13635,7 +13635,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13647,7 +13647,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13689,13 +13689,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13761,7 +13761,7 @@ vehicles = [
     "Year": 2015,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -13785,13 +13785,13 @@ vehicles = [
     "Year": 2015,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2015,
@@ -14289,7 +14289,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14319,7 +14319,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14349,13 +14349,13 @@ vehicles = [
     "Year": 2014,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14373,13 +14373,13 @@ vehicles = [
     "Year": 2014,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14397,7 +14397,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14589,7 +14589,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14643,19 +14643,19 @@ vehicles = [
     "Year": 2014,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14667,25 +14667,25 @@ vehicles = [
     "Year": 2014,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14697,7 +14697,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14715,7 +14715,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14769,7 +14769,7 @@ vehicles = [
     "Year": 2014,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14811,7 +14811,7 @@ vehicles = [
     "Year": 2014,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14823,7 +14823,7 @@ vehicles = [
     "Year": 2014,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14853,13 +14853,13 @@ vehicles = [
     "Year": 2014,
     "Make": "GMC",
     "Model": "Sierra 1500 Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14871,7 +14871,7 @@ vehicles = [
     "Year": 2014,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14883,7 +14883,7 @@ vehicles = [
     "Year": 2014,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -14967,7 +14967,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15549,7 +15549,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15597,7 +15597,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15621,7 +15621,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15639,7 +15639,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15675,7 +15675,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15711,7 +15711,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15723,13 +15723,13 @@ vehicles = [
     "Year": 2014,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15747,13 +15747,13 @@ vehicles = [
     "Year": 2014,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15771,7 +15771,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15789,7 +15789,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15861,7 +15861,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15933,7 +15933,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15945,7 +15945,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -15963,7 +15963,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -16023,7 +16023,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -16035,7 +16035,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -16059,7 +16059,7 @@ vehicles = [
     "Year": 2014,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2014,
@@ -16419,7 +16419,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16455,7 +16455,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16521,7 +16521,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16533,7 +16533,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16563,13 +16563,13 @@ vehicles = [
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16587,19 +16587,19 @@ vehicles = [
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16641,7 +16641,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16749,7 +16749,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16809,55 +16809,55 @@ vehicles = [
     "Year": 2013,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -16977,7 +16977,7 @@ vehicles = [
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17013,19 +17013,19 @@ vehicles = [
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17037,7 +17037,7 @@ vehicles = [
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17055,13 +17055,13 @@ vehicles = [
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17079,13 +17079,13 @@ vehicles = [
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17127,7 +17127,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17655,7 +17655,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17679,7 +17679,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17751,13 +17751,13 @@ vehicles = [
     "Year": 2013,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17781,13 +17781,13 @@ vehicles = [
     "Year": 2013,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17835,19 +17835,19 @@ vehicles = [
     "Year": 2013,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17877,7 +17877,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17889,7 +17889,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -17907,13 +17907,13 @@ vehicles = [
     "Year": 2013,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -18051,7 +18051,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -18087,7 +18087,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -18111,13 +18111,13 @@ vehicles = [
     "Year": 2013,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -18171,7 +18171,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -18183,7 +18183,7 @@ vehicles = [
     "Year": 2013,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2013,
@@ -18549,7 +18549,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18561,13 +18561,13 @@ vehicles = [
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18585,7 +18585,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18627,19 +18627,19 @@ vehicles = [
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18669,7 +18669,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18687,25 +18687,25 @@ vehicles = [
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18717,7 +18717,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18861,25 +18861,25 @@ vehicles = [
     "Year": 2012,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18903,7 +18903,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18921,7 +18921,7 @@ vehicles = [
     "Year": 2012,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18933,13 +18933,13 @@ vehicles = [
     "Year": 2012,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18957,7 +18957,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18969,7 +18969,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18981,7 +18981,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -18999,13 +18999,13 @@ vehicles = [
     "Year": 2012,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19029,13 +19029,13 @@ vehicles = [
     "Year": 2012,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19053,31 +19053,31 @@ vehicles = [
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19095,7 +19095,7 @@ vehicles = [
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19131,7 +19131,7 @@ vehicles = [
     "Year": 2012,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19197,7 +19197,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19761,7 +19761,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19791,7 +19791,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19839,7 +19839,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19875,7 +19875,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19899,7 +19899,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19923,7 +19923,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19935,25 +19935,25 @@ vehicles = [
     "Year": 2012,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19971,7 +19971,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -19989,7 +19989,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -20055,7 +20055,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -20073,13 +20073,13 @@ vehicles = [
     "Year": 2012,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Suzuki",
     "Model": "Equator Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -20163,13 +20163,13 @@ vehicles = [
     "Year": 2012,
     "Make": "Suzuki",
     "Model": "Equator Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2012,
@@ -20223,7 +20223,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20361,7 +20361,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20373,7 +20373,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20385,7 +20385,7 @@ vehicles = [
     "Year": 2012,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20571,7 +20571,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20607,13 +20607,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20643,7 +20643,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20661,13 +20661,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20697,19 +20697,19 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20733,7 +20733,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20763,7 +20763,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20781,7 +20781,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20859,7 +20859,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20949,43 +20949,43 @@ vehicles = [
     "Year": 2011,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -20997,7 +20997,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21015,7 +21015,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21033,7 +21033,7 @@ vehicles = [
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21045,19 +21045,19 @@ vehicles = [
     "Year": 2011,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21105,7 +21105,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21117,7 +21117,7 @@ vehicles = [
     "Year": 2011,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21141,25 +21141,25 @@ vehicles = [
     "Year": 2011,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21171,31 +21171,31 @@ vehicles = [
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21405,7 +21405,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21801,7 +21801,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21813,7 +21813,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21945,13 +21945,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -21981,13 +21981,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Ram",
     "Model": "1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ram",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22017,13 +22017,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Ram",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ram",
     "Model": "2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22035,13 +22035,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Ram",
     "Model": "1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ram",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22065,7 +22065,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Ram",
     "Model": "3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22089,7 +22089,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Suzuki",
     "Model": "Equator Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22113,13 +22113,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Ram",
     "Model": "Dakota Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Ram",
     "Model": "Dakota Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22149,13 +22149,13 @@ vehicles = [
     "Year": 2011,
     "Make": "Ram",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Suzuki",
     "Model": "Equator Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22179,7 +22179,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Ram",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22227,7 +22227,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22245,7 +22245,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22275,7 +22275,7 @@ vehicles = [
     "Year": 2011,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22299,19 +22299,19 @@ vehicles = [
     "Year": 2011,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2011,
@@ -22635,7 +22635,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22761,7 +22761,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22785,7 +22785,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22803,13 +22803,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22821,13 +22821,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22845,7 +22845,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22875,25 +22875,25 @@ vehicles = [
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Dakota Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22905,7 +22905,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22923,13 +22923,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22941,7 +22941,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Dakota Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22959,7 +22959,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -22977,19 +22977,19 @@ vehicles = [
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23007,13 +23007,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23031,7 +23031,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23061,7 +23061,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23073,7 +23073,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23103,7 +23103,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23115,7 +23115,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "Explorer Sport Trac",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23127,7 +23127,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23145,7 +23145,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23157,37 +23157,37 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23223,7 +23223,7 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23235,7 +23235,7 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23247,7 +23247,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23259,7 +23259,7 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23271,13 +23271,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23295,13 +23295,13 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23331,7 +23331,7 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23343,7 +23343,7 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23361,19 +23361,19 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23385,7 +23385,7 @@ vehicles = [
     "Year": 2010,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23445,7 +23445,7 @@ vehicles = [
     "Year": 2010,
     "Make": "HUMMER",
     "Model": "H3T",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -23487,7 +23487,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24063,13 +24063,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24099,7 +24099,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24135,7 +24135,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24159,7 +24159,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Suzuki",
     "Model": "Equator Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24171,7 +24171,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Suzuki",
     "Model": "Equator Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24297,7 +24297,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24315,7 +24315,7 @@ vehicles = [
     "Year": 2010,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24357,13 +24357,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24393,13 +24393,13 @@ vehicles = [
     "Year": 2010,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2010,
@@ -24705,7 +24705,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -24819,19 +24819,19 @@ vehicles = [
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -24861,19 +24861,19 @@ vehicles = [
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -24903,7 +24903,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -24921,13 +24921,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -24945,19 +24945,19 @@ vehicles = [
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -24975,7 +24975,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Dakota Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25005,13 +25005,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25023,7 +25023,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Dakota Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25053,13 +25053,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25089,13 +25089,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25125,13 +25125,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25149,7 +25149,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Dodge",
     "Model": "Ram 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25209,7 +25209,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25227,7 +25227,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25239,61 +25239,61 @@ vehicles = [
     "Year": 2009,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "Explorer Sport Trac",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25311,7 +25311,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25323,7 +25323,7 @@ vehicles = [
     "Year": 2009,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25377,19 +25377,19 @@ vehicles = [
     "Year": 2009,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25407,7 +25407,7 @@ vehicles = [
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25425,13 +25425,13 @@ vehicles = [
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25461,7 +25461,7 @@ vehicles = [
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25479,19 +25479,19 @@ vehicles = [
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25503,7 +25503,7 @@ vehicles = [
     "Year": 2009,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25539,13 +25539,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "HUMMER",
     "Model": "H3T",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25923,7 +25923,7 @@ vehicles = [
     "Year": 2009,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -25947,7 +25947,7 @@ vehicles = [
     "Year": 2009,
     "Make": "MAZDA",
     "Model": "B-Series Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26115,7 +26115,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Mitsubishi",
     "Model": "Raider Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26157,13 +26157,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26181,13 +26181,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Mitsubishi",
     "Model": "Raider Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26241,7 +26241,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26391,7 +26391,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Suzuki",
     "Model": "Equator Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26457,7 +26457,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Suzuki",
     "Model": "Equator Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26493,13 +26493,13 @@ vehicles = [
     "Year": 2009,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26523,7 +26523,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26541,7 +26541,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26553,7 +26553,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26595,7 +26595,7 @@ vehicles = [
     "Year": 2009,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2009,
@@ -26817,7 +26817,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -26985,7 +26985,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -26997,13 +26997,13 @@ vehicles = [
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27033,7 +27033,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27063,7 +27063,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27087,31 +27087,31 @@ vehicles = [
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27129,7 +27129,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27153,7 +27153,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27213,13 +27213,13 @@ vehicles = [
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27237,19 +27237,19 @@ vehicles = [
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Dakota Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27303,25 +27303,25 @@ vehicles = [
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 1500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Dakota Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27333,7 +27333,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27351,7 +27351,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Dodge",
     "Model": "Ram 3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27411,13 +27411,13 @@ vehicles = [
     "Year": 2008,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27435,7 +27435,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27459,19 +27459,19 @@ vehicles = [
     "Year": 2008,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27483,7 +27483,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27507,13 +27507,13 @@ vehicles = [
     "Year": 2008,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27531,19 +27531,19 @@ vehicles = [
     "Year": 2008,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "Ford",
     "Model": "F450 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27555,7 +27555,7 @@ vehicles = [
     "Year": 2008,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27585,7 +27585,7 @@ vehicles = [
     "Year": 2008,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27603,19 +27603,19 @@ vehicles = [
     "Year": 2008,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27627,37 +27627,37 @@ vehicles = [
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27699,7 +27699,7 @@ vehicles = [
     "Year": 2008,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27729,7 +27729,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27783,7 +27783,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Isuzu",
     "Model": "i-370 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27831,7 +27831,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Isuzu",
     "Model": "i-290 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -27963,7 +27963,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Isuzu",
     "Model": "i-370 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28113,7 +28113,7 @@ vehicles = [
     "Year": 2008,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28155,7 +28155,7 @@ vehicles = [
     "Year": 2008,
     "Make": "MAZDA",
     "Model": "B-Series Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28167,7 +28167,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Lincoln",
     "Model": "Mark LT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28281,7 +28281,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Mitsubishi",
     "Model": "Raider Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28365,7 +28365,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28389,7 +28389,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28401,7 +28401,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28455,7 +28455,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Mitsubishi",
     "Model": "Raider Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28545,7 +28545,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28647,7 +28647,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28713,7 +28713,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28725,7 +28725,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28755,7 +28755,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28773,7 +28773,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -28785,7 +28785,7 @@ vehicles = [
     "Year": 2008,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2008,
@@ -29067,13 +29067,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Avalanche",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29127,7 +29127,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29169,7 +29169,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29199,7 +29199,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29217,13 +29217,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29235,13 +29235,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29253,19 +29253,19 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29277,7 +29277,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29289,31 +29289,31 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29331,25 +29331,25 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29367,13 +29367,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado (Classic) 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29469,13 +29469,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29499,37 +29499,37 @@ vehicles = [
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 1500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29541,7 +29541,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29553,7 +29553,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "Explorer Sport Trac",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29565,13 +29565,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29583,7 +29583,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29631,13 +29631,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29649,7 +29649,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29661,7 +29661,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29679,7 +29679,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29697,19 +29697,19 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29721,7 +29721,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29733,7 +29733,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29745,7 +29745,7 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29775,19 +29775,19 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29805,13 +29805,13 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29823,7 +29823,7 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29835,7 +29835,7 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29847,7 +29847,7 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29865,7 +29865,7 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29895,13 +29895,13 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29919,31 +29919,31 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29955,7 +29955,7 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29973,19 +29973,19 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra (Classic) 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -29997,7 +29997,7 @@ vehicles = [
     "Year": 2007,
     "Make": "GMC",
     "Model": "Sierra 3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30057,7 +30057,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30093,7 +30093,7 @@ vehicles = [
     "Year": 2007,
     "Make": "HUMMER",
     "Model": "H2",
-    "Category": "SUV, Pickup"
+    "Category": "SUV, Truck"
   },
   {
     "Year": 2007,
@@ -30123,7 +30123,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Isuzu",
     "Model": "i-290 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30135,7 +30135,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Isuzu",
     "Model": "i-370 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30195,7 +30195,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Isuzu",
     "Model": "i-370 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30327,7 +30327,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Lincoln",
     "Model": "Mark LT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30477,7 +30477,7 @@ vehicles = [
     "Year": 2007,
     "Make": "MAZDA",
     "Model": "B-Series Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30489,7 +30489,7 @@ vehicles = [
     "Year": 2007,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30531,7 +30531,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Mitsubishi",
     "Model": "Raider Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30609,7 +30609,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Mitsubishi",
     "Model": "Raider Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30633,7 +30633,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30645,7 +30645,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30669,7 +30669,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30699,7 +30699,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30915,7 +30915,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30927,13 +30927,13 @@ vehicles = [
     "Year": 2007,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30957,7 +30957,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -30981,7 +30981,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -31041,7 +31041,7 @@ vehicles = [
     "Year": 2007,
     "Make": "Toyota",
     "Model": "Tundra CrewMax",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2007,
@@ -31251,7 +31251,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31317,7 +31317,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Avalanche 2500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31359,7 +31359,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31389,7 +31389,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31401,7 +31401,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31419,13 +31419,13 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31443,7 +31443,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31461,13 +31461,13 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Avalanche 1500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31479,7 +31479,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "SSR",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31491,25 +31491,25 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31521,7 +31521,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31533,7 +31533,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31593,7 +31593,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 3500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31617,7 +31617,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31629,7 +31629,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 2500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31659,37 +31659,37 @@ vehicles = [
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31707,7 +31707,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 1500 Mega Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31725,7 +31725,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31737,7 +31737,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31779,7 +31779,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31803,13 +31803,13 @@ vehicles = [
     "Year": 2006,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31827,7 +31827,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31845,19 +31845,19 @@ vehicles = [
     "Year": 2006,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31869,19 +31869,19 @@ vehicles = [
     "Year": 2006,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31893,19 +31893,19 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31941,7 +31941,7 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31971,7 +31971,7 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -31983,7 +31983,7 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32007,19 +32007,19 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32031,7 +32031,7 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32043,7 +32043,7 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32055,7 +32055,7 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32073,7 +32073,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Honda",
     "Model": "Ridgeline",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32085,7 +32085,7 @@ vehicles = [
     "Year": 2006,
     "Make": "GMC",
     "Model": "Sierra 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32145,7 +32145,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Isuzu",
     "Model": "i-350 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32157,7 +32157,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Isuzu",
     "Model": "i-280 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32187,7 +32187,7 @@ vehicles = [
     "Year": 2006,
     "Make": "HUMMER",
     "Model": "H2",
-    "Category": "SUV, Pickup"
+    "Category": "SUV, Truck"
   },
   {
     "Year": 2006,
@@ -32391,7 +32391,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Lincoln",
     "Model": "Mark LT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32451,7 +32451,7 @@ vehicles = [
     "Year": 2006,
     "Make": "MAZDA",
     "Model": "B-Series Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32511,7 +32511,7 @@ vehicles = [
     "Year": 2006,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32637,13 +32637,13 @@ vehicles = [
     "Year": 2006,
     "Make": "Mitsubishi",
     "Model": "Raider Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Mitsubishi",
     "Model": "Raider Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32691,7 +32691,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32739,7 +32739,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32769,7 +32769,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32781,7 +32781,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -32805,7 +32805,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Subaru",
     "Model": "Baja",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -33021,7 +33021,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -33045,7 +33045,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -33063,19 +33063,19 @@ vehicles = [
     "Year": 2006,
     "Make": "Toyota",
     "Model": "Tundra Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -33093,7 +33093,7 @@ vehicles = [
     "Year": 2006,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2006,
@@ -33405,7 +33405,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Avalanche 2500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33417,19 +33417,19 @@ vehicles = [
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Avalanche 1500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33477,7 +33477,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33507,19 +33507,19 @@ vehicles = [
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33567,37 +33567,37 @@ vehicles = [
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33609,13 +33609,13 @@ vehicles = [
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "SSR",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33627,7 +33627,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33681,7 +33681,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33693,7 +33693,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33717,13 +33717,13 @@ vehicles = [
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33735,7 +33735,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33747,7 +33747,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33831,13 +33831,13 @@ vehicles = [
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33873,7 +33873,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33885,31 +33885,31 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33927,7 +33927,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33945,7 +33945,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33969,7 +33969,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -33999,13 +33999,13 @@ vehicles = [
     "Year": 2005,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34017,7 +34017,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34035,7 +34035,7 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34053,7 +34053,7 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34071,13 +34071,13 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34095,13 +34095,13 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34125,13 +34125,13 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34155,7 +34155,7 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34185,19 +34185,19 @@ vehicles = [
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "GMC",
     "Model": "Sierra 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34239,7 +34239,7 @@ vehicles = [
     "Year": 2005,
     "Make": "HUMMER",
     "Model": "H2",
-    "Category": "SUV, Pickup"
+    "Category": "SUV, Truck"
   },
   {
     "Year": 2005,
@@ -34467,7 +34467,7 @@ vehicles = [
     "Year": 2005,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34533,7 +34533,7 @@ vehicles = [
     "Year": 2005,
     "Make": "MAZDA",
     "Model": "B-Series Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34707,7 +34707,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34719,13 +34719,13 @@ vehicles = [
     "Year": 2005,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34791,7 +34791,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34905,7 +34905,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Subaru",
     "Model": "Baja",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -34995,7 +34995,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -35121,7 +35121,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -35139,7 +35139,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -35157,7 +35157,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Toyota",
     "Model": "Tacoma Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -35265,7 +35265,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Toyota",
     "Model": "Tundra Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35307,7 +35307,7 @@ vehicles = [
     "Year": 2005,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2005,
@@ -35427,7 +35427,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Avalanche 1500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35457,13 +35457,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Avalanche 2500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35475,7 +35475,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Colorado Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35511,7 +35511,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Colorado Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35529,7 +35529,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Colorado Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35565,13 +35565,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "S10 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35583,7 +35583,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35595,7 +35595,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35607,7 +35607,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35619,19 +35619,19 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35655,7 +35655,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35667,13 +35667,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35685,7 +35685,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35697,13 +35697,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35727,7 +35727,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Chevrolet",
     "Model": "SSR",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35751,25 +35751,25 @@ vehicles = [
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35781,7 +35781,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35793,7 +35793,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35829,7 +35829,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35865,7 +35865,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35889,13 +35889,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35907,13 +35907,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35931,19 +35931,19 @@ vehicles = [
     "Year": 2004,
     "Make": "Ford",
     "Model": "Explorer Sport Trac",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "F150 (Heritage) Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35955,25 +35955,25 @@ vehicles = [
     "Year": 2004,
     "Make": "Ford",
     "Model": "F150 (Heritage) Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -35985,7 +35985,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36009,13 +36009,13 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Canyon Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36033,7 +36033,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36045,7 +36045,7 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Canyon Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36069,7 +36069,7 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Canyon Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36081,13 +36081,13 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36111,13 +36111,13 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36147,19 +36147,19 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 1500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sonoma Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36177,25 +36177,25 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36207,13 +36207,13 @@ vehicles = [
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "GMC",
     "Model": "Sierra 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36471,7 +36471,7 @@ vehicles = [
     "Year": 2004,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36579,7 +36579,7 @@ vehicles = [
     "Year": 2004,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36699,7 +36699,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36753,7 +36753,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36765,7 +36765,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Nissan",
     "Model": "Titan King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36795,7 +36795,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Nissan",
     "Model": "Titan Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -36915,7 +36915,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Subaru",
     "Model": "Baja",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -37029,7 +37029,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -37047,13 +37047,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -37101,7 +37101,7 @@ vehicles = [
     "Year": 2004,
     "Make": "Toyota",
     "Model": "Tundra Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -37149,13 +37149,13 @@ vehicles = [
     "Year": 2004,
     "Make": "Toyota",
     "Model": "Tundra Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2004,
@@ -37347,7 +37347,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37407,7 +37407,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Avalanche 2500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37443,7 +37443,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37455,13 +37455,13 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37479,13 +37479,13 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Avalanche 1500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37515,7 +37515,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37533,7 +37533,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37545,13 +37545,13 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "S10 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37569,25 +37569,25 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37599,7 +37599,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37617,7 +37617,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37629,7 +37629,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37653,7 +37653,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37665,7 +37665,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "SSR",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37683,7 +37683,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37713,7 +37713,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37737,7 +37737,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37761,7 +37761,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37779,13 +37779,13 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37797,7 +37797,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37893,25 +37893,25 @@ vehicles = [
     "Year": 2003,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Ford",
     "Model": "Explorer Sport Trac",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37929,13 +37929,13 @@ vehicles = [
     "Year": 2003,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37947,13 +37947,13 @@ vehicles = [
     "Year": 2003,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37983,7 +37983,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -37995,7 +37995,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38007,7 +38007,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38019,7 +38019,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38037,7 +38037,7 @@ vehicles = [
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38061,31 +38061,31 @@ vehicles = [
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38109,37 +38109,37 @@ vehicles = [
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sonoma Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38181,7 +38181,7 @@ vehicles = [
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sonoma Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38199,7 +38199,7 @@ vehicles = [
     "Year": 2003,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38481,7 +38481,7 @@ vehicles = [
     "Year": 2003,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38517,7 +38517,7 @@ vehicles = [
     "Year": 2003,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38673,7 +38673,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38697,7 +38697,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38865,7 +38865,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Subaru",
     "Model": "Baja",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38949,7 +38949,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38967,19 +38967,19 @@ vehicles = [
     "Year": 2003,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
     "Make": "Toyota",
     "Model": "Tundra Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -38991,7 +38991,7 @@ vehicles = [
     "Year": 2003,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2003,
@@ -39165,7 +39165,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Avalanche 1500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39201,7 +39201,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Avalanche 2500",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39279,7 +39279,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Cadillac",
     "Model": "Escalade EXT",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39315,7 +39315,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39345,7 +39345,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39369,7 +39369,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39381,7 +39381,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "S10 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39405,7 +39405,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39417,13 +39417,13 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39441,7 +39441,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39453,7 +39453,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39465,7 +39465,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39489,7 +39489,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39501,7 +39501,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39525,13 +39525,13 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39555,13 +39555,13 @@ vehicles = [
     "Year": 2002,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39597,7 +39597,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39627,13 +39627,13 @@ vehicles = [
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39687,7 +39687,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39699,7 +39699,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39729,7 +39729,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39741,7 +39741,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "Explorer Sport Trac",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39759,7 +39759,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39789,7 +39789,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39801,7 +39801,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39813,25 +39813,25 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39849,13 +39849,13 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39867,7 +39867,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39879,25 +39879,25 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sonoma Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39915,7 +39915,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39951,7 +39951,7 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sonoma Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39969,7 +39969,7 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -39981,7 +39981,7 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40011,19 +40011,19 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40053,7 +40053,7 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40065,13 +40065,13 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40083,7 +40083,7 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40095,7 +40095,7 @@ vehicles = [
     "Year": 2002,
     "Make": "GMC",
     "Model": "Sierra 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40281,7 +40281,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Lincoln",
     "Model": "Blackwood",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40389,7 +40389,7 @@ vehicles = [
     "Year": 2002,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40401,7 +40401,7 @@ vehicles = [
     "Year": 2002,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40473,7 +40473,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40569,7 +40569,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40815,7 +40815,7 @@ vehicles = [
     "Year": 2002,
     "Make": "Toyota",
     "Model": "Tundra Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40827,13 +40827,13 @@ vehicles = [
     "Year": 2002,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -40869,13 +40869,13 @@ vehicles = [
     "Year": 2002,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2002,
@@ -41169,13 +41169,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41199,7 +41199,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41235,13 +41235,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "S10 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41259,19 +41259,19 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41289,7 +41289,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41319,7 +41319,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41331,7 +41331,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41355,7 +41355,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41385,7 +41385,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41397,7 +41397,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Chevrolet",
     "Model": "Silverado 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41415,13 +41415,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41439,13 +41439,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41457,13 +41457,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41481,19 +41481,19 @@ vehicles = [
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Ram 1500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41505,7 +41505,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41553,7 +41553,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41613,7 +41613,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41625,13 +41625,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Ford",
     "Model": "F150 SuperCrew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41649,7 +41649,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41667,13 +41667,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 1500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41685,19 +41685,19 @@ vehicles = [
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41709,37 +41709,37 @@ vehicles = [
     "Year": 2001,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sonoma Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Ford",
     "Model": "Explorer Sport Trac",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41757,7 +41757,7 @@ vehicles = [
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41793,13 +41793,13 @@ vehicles = [
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41823,7 +41823,7 @@ vehicles = [
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41841,25 +41841,25 @@ vehicles = [
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sonoma Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41889,7 +41889,7 @@ vehicles = [
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sierra 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -41901,7 +41901,7 @@ vehicles = [
     "Year": 2001,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42153,7 +42153,7 @@ vehicles = [
     "Year": 2001,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42171,7 +42171,7 @@ vehicles = [
     "Year": 2001,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42249,7 +42249,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42309,7 +42309,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Nissan",
     "Model": "Frontier Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42327,7 +42327,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42615,7 +42615,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42627,7 +42627,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Toyota",
     "Model": "Tacoma Double Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42639,13 +42639,13 @@ vehicles = [
     "Year": 2001,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
     "Make": "Toyota",
     "Model": "Tundra Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42657,7 +42657,7 @@ vehicles = [
     "Year": 2001,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2001,
@@ -42885,7 +42885,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -42897,7 +42897,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -42927,19 +42927,19 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -42951,13 +42951,13 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -42999,7 +42999,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43047,13 +43047,13 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43125,7 +43125,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43137,7 +43137,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43155,7 +43155,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43179,7 +43179,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43209,19 +43209,19 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Ram 1500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43233,7 +43233,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43245,7 +43245,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43263,7 +43263,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Dakota Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43275,7 +43275,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43287,7 +43287,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43317,7 +43317,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43329,7 +43329,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43371,7 +43371,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43383,7 +43383,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43401,7 +43401,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43419,7 +43419,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43431,7 +43431,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43443,7 +43443,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43455,7 +43455,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43485,7 +43485,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43497,7 +43497,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43515,7 +43515,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43539,7 +43539,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra (Classic) 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43557,7 +43557,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43581,7 +43581,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43599,7 +43599,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra (Classic) 3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43611,7 +43611,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra (Classic) 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43623,7 +43623,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra (Classic) 3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43653,13 +43653,13 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sonoma Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43695,25 +43695,25 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra (Classic) 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43737,7 +43737,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra (Classic) 2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43755,7 +43755,7 @@ vehicles = [
     "Year": 2000,
     "Make": "GMC",
     "Model": "Sierra 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43779,7 +43779,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Isuzu",
     "Model": "Hombre Spacecab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43797,7 +43797,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Isuzu",
     "Model": "Hombre Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43923,7 +43923,7 @@ vehicles = [
     "Year": 2000,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -43995,7 +43995,7 @@ vehicles = [
     "Year": 2000,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44115,7 +44115,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Nissan",
     "Model": "Frontier Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44127,7 +44127,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Nissan",
     "Model": "Frontier Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44157,7 +44157,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44349,7 +44349,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44373,7 +44373,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44403,7 +44403,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Toyota",
     "Model": "Tundra Access Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44415,7 +44415,7 @@ vehicles = [
     "Year": 2000,
     "Make": "Toyota",
     "Model": "Tundra Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 2000,
@@ -44529,7 +44529,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44559,7 +44559,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44643,7 +44643,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44661,7 +44661,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44673,13 +44673,13 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44733,7 +44733,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44745,7 +44745,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44757,7 +44757,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44769,7 +44769,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44787,7 +44787,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44811,7 +44811,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44823,13 +44823,13 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "Silverado 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44877,7 +44877,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Chevrolet",
     "Model": "Silverado 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44913,13 +44913,13 @@ vehicles = [
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44937,13 +44937,13 @@ vehicles = [
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44955,7 +44955,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 2500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44967,13 +44967,13 @@ vehicles = [
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 1500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -44991,7 +44991,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45003,13 +45003,13 @@ vehicles = [
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45021,7 +45021,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Ford",
     "Model": "F250 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45105,7 +45105,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45135,19 +45135,19 @@ vehicles = [
     "Year": 1999,
     "Make": "Ford",
     "Model": "F250 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Ford",
     "Model": "F250 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45159,13 +45159,13 @@ vehicles = [
     "Year": 1999,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Ford",
     "Model": "F350 Super Duty Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45177,7 +45177,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45189,19 +45189,19 @@ vehicles = [
     "Year": 1999,
     "Make": "Ford",
     "Model": "F350 Super Duty Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "GMC",
     "Model": "2500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45225,13 +45225,13 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45249,7 +45249,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Ford",
     "Model": "F350 Super Duty Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45267,19 +45267,19 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sierra 2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "GMC",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "GMC",
     "Model": "2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45303,7 +45303,7 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45315,13 +45315,13 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sonoma Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45333,7 +45333,7 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45345,13 +45345,13 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sierra 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45381,19 +45381,19 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sierra 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sierra 1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45405,7 +45405,7 @@ vehicles = [
     "Year": 1999,
     "Make": "GMC",
     "Model": "Sierra 2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45513,7 +45513,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Isuzu",
     "Model": "Hombre Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45549,7 +45549,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Isuzu",
     "Model": "Hombre Spacecab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45663,7 +45663,7 @@ vehicles = [
     "Year": 1999,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45687,7 +45687,7 @@ vehicles = [
     "Year": 1999,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45741,7 +45741,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -45843,7 +45843,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Nissan",
     "Model": "Frontier Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -46119,7 +46119,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -46143,7 +46143,7 @@ vehicles = [
     "Year": 1999,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1999,
@@ -46329,13 +46329,13 @@ vehicles = [
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46359,7 +46359,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46371,7 +46371,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46383,7 +46383,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46395,19 +46395,19 @@ vehicles = [
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46419,7 +46419,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46485,7 +46485,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46509,7 +46509,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 2500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46527,7 +46527,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46599,19 +46599,19 @@ vehicles = [
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 1500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 3500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46623,13 +46623,13 @@ vehicles = [
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46641,7 +46641,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 1500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46653,13 +46653,13 @@ vehicles = [
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Dodge",
     "Model": "Ram 2500 Quad Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46677,13 +46677,13 @@ vehicles = [
     "Year": 1998,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46701,19 +46701,19 @@ vehicles = [
     "Year": 1998,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46797,7 +46797,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46815,25 +46815,25 @@ vehicles = [
     "Year": 1998,
     "Make": "GMC",
     "Model": "2500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "GMC",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "GMC",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46845,19 +46845,19 @@ vehicles = [
     "Year": 1998,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "GMC",
     "Model": "3500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46881,7 +46881,7 @@ vehicles = [
     "Year": 1998,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46899,7 +46899,7 @@ vehicles = [
     "Year": 1998,
     "Make": "GMC",
     "Model": "Sonoma Club Coupe Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -46947,7 +46947,7 @@ vehicles = [
     "Year": 1998,
     "Make": "GMC",
     "Model": "2500 HD Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47061,7 +47061,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Isuzu",
     "Model": "Hombre Spacecab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47091,7 +47091,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Isuzu",
     "Model": "Hombre Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47121,7 +47121,7 @@ vehicles = [
     "Year": 1998,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47259,7 +47259,7 @@ vehicles = [
     "Year": 1998,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47337,7 +47337,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Nissan",
     "Model": "Frontier King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47385,7 +47385,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Nissan",
     "Model": "Frontier Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47577,7 +47577,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Toyota",
     "Model": "T100 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47589,7 +47589,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47649,7 +47649,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Toyota",
     "Model": "T100 Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1998,
@@ -47679,7 +47679,7 @@ vehicles = [
     "Year": 1998,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -47859,7 +47859,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -47871,25 +47871,25 @@ vehicles = [
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -47913,7 +47913,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -47943,7 +47943,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -47991,7 +47991,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48039,7 +48039,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48057,7 +48057,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48093,13 +48093,13 @@ vehicles = [
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Ram 2500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48111,7 +48111,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Ram 1500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48135,7 +48135,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48153,7 +48153,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48171,7 +48171,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48189,7 +48189,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Ram 3500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48201,7 +48201,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48255,7 +48255,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48291,7 +48291,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48321,19 +48321,19 @@ vehicles = [
     "Year": 1997,
     "Make": "Ford",
     "Model": "F350 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Ford",
     "Model": "F350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48345,25 +48345,25 @@ vehicles = [
     "Year": 1997,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Ford",
     "Model": "F250 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Ford",
     "Model": "F350 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48381,7 +48381,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48393,19 +48393,19 @@ vehicles = [
     "Year": 1997,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48435,25 +48435,25 @@ vehicles = [
     "Year": 1997,
     "Make": "GMC",
     "Model": "3500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "GMC",
     "Model": "2500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "GMC",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "GMC",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48495,7 +48495,7 @@ vehicles = [
     "Year": 1997,
     "Make": "GMC",
     "Model": "2500 HD Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48567,7 +48567,7 @@ vehicles = [
     "Year": 1997,
     "Make": "GMC",
     "Model": "Sonoma Club Coupe Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48585,7 +48585,7 @@ vehicles = [
     "Year": 1997,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48621,7 +48621,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Isuzu",
     "Model": "Hombre Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48705,7 +48705,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Isuzu",
     "Model": "Hombre Spacecab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48795,7 +48795,7 @@ vehicles = [
     "Year": 1997,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48813,7 +48813,7 @@ vehicles = [
     "Year": 1997,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48957,7 +48957,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Nissan",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -48999,7 +48999,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Nissan",
     "Model": "King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -49215,13 +49215,13 @@ vehicles = [
     "Year": 1997,
     "Make": "Toyota",
     "Model": "T100 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
     "Make": "Toyota",
     "Model": "T100 Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -49251,7 +49251,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1997,
@@ -49329,7 +49329,7 @@ vehicles = [
     "Year": 1997,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49401,7 +49401,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49455,7 +49455,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49485,7 +49485,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49521,7 +49521,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "2500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49539,7 +49539,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49563,7 +49563,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49581,7 +49581,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49629,13 +49629,13 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49701,7 +49701,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49713,7 +49713,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49731,7 +49731,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Ram 3500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49743,7 +49743,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49767,19 +49767,19 @@ vehicles = [
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Ram 2500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Ram 1500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49791,13 +49791,13 @@ vehicles = [
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49851,7 +49851,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49935,13 +49935,13 @@ vehicles = [
     "Year": 1996,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49953,7 +49953,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Ford",
     "Model": "F350 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49965,7 +49965,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Ford",
     "Model": "F250 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -49977,19 +49977,19 @@ vehicles = [
     "Year": 1996,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Ford",
     "Model": "F350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Ford",
     "Model": "F350 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50007,19 +50007,19 @@ vehicles = [
     "Year": 1996,
     "Make": "GMC",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "GMC",
     "Model": "Sonoma Club Coupe Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50049,7 +50049,7 @@ vehicles = [
     "Year": 1996,
     "Make": "GMC",
     "Model": "2500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50061,7 +50061,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50073,7 +50073,7 @@ vehicles = [
     "Year": 1996,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50091,7 +50091,7 @@ vehicles = [
     "Year": 1996,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50115,13 +50115,13 @@ vehicles = [
     "Year": 1996,
     "Make": "GMC",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50139,7 +50139,7 @@ vehicles = [
     "Year": 1996,
     "Make": "GMC",
     "Model": "3500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50151,7 +50151,7 @@ vehicles = [
     "Year": 1996,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50253,7 +50253,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Isuzu",
     "Model": "Hombre Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50337,7 +50337,7 @@ vehicles = [
     "Year": 1996,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50349,7 +50349,7 @@ vehicles = [
     "Year": 1996,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50445,7 +50445,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50565,7 +50565,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Nissan",
     "Model": "King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50607,7 +50607,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Nissan",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50841,7 +50841,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Toyota",
     "Model": "T100 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -50937,7 +50937,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1996,
@@ -50949,7 +50949,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Toyota",
     "Model": "T100 Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -50985,7 +50985,7 @@ vehicles = [
     "Year": 1996,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51033,7 +51033,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51057,19 +51057,19 @@ vehicles = [
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "3500 HD Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51093,13 +51093,13 @@ vehicles = [
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51129,7 +51129,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "3500 HD Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51183,7 +51183,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51207,13 +51207,13 @@ vehicles = [
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Ram 2500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51225,7 +51225,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51249,7 +51249,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51267,7 +51267,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51279,7 +51279,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51369,7 +51369,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Ram 3500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51393,13 +51393,13 @@ vehicles = [
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Ram 1500 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51477,7 +51477,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51507,25 +51507,25 @@ vehicles = [
     "Year": 1995,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Ford",
     "Model": "F350 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Ford",
     "Model": "F350 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51543,7 +51543,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51561,7 +51561,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Ford",
     "Model": "F350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51573,13 +51573,13 @@ vehicles = [
     "Year": 1995,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51609,7 +51609,7 @@ vehicles = [
     "Year": 1995,
     "Make": "GMC",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51621,7 +51621,7 @@ vehicles = [
     "Year": 1995,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51633,19 +51633,19 @@ vehicles = [
     "Year": 1995,
     "Make": "GMC",
     "Model": "3500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "GMC",
     "Model": "2500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51657,13 +51657,13 @@ vehicles = [
     "Year": 1995,
     "Make": "GMC",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51681,7 +51681,7 @@ vehicles = [
     "Year": 1995,
     "Make": "GMC",
     "Model": "Sonoma Club Coupe Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51693,7 +51693,7 @@ vehicles = [
     "Year": 1995,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51801,7 +51801,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Isuzu",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51903,7 +51903,7 @@ vehicles = [
     "Year": 1995,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -51987,7 +51987,7 @@ vehicles = [
     "Year": 1995,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52059,7 +52059,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52131,13 +52131,13 @@ vehicles = [
     "Year": 1995,
     "Make": "Nissan",
     "Model": "King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Nissan",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52377,7 +52377,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Toyota",
     "Model": "T100 Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52389,13 +52389,13 @@ vehicles = [
     "Year": 1995,
     "Make": "Toyota",
     "Model": "T100 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
     "Make": "Toyota",
     "Model": "Tacoma Xtracab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52437,7 +52437,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Toyota",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52485,7 +52485,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Toyota",
     "Model": "Xtra Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52503,7 +52503,7 @@ vehicles = [
     "Year": 1995,
     "Make": "Toyota",
     "Model": "Tacoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52617,7 +52617,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1995,
@@ -52629,7 +52629,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52653,13 +52653,13 @@ vehicles = [
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52683,13 +52683,13 @@ vehicles = [
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52707,7 +52707,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52719,7 +52719,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52779,7 +52779,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52851,7 +52851,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Dodge",
     "Model": "Ram 3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52863,13 +52863,13 @@ vehicles = [
     "Year": 1994,
     "Make": "Dodge",
     "Model": "Ram 2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "Dodge",
     "Model": "Ram 1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52899,7 +52899,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52911,7 +52911,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -52953,7 +52953,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53007,7 +53007,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "F350 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53037,7 +53037,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53061,13 +53061,13 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53079,7 +53079,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "F350 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53091,7 +53091,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "F350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53103,7 +53103,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53127,7 +53127,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53139,7 +53139,7 @@ vehicles = [
     "Year": 1994,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53151,13 +53151,13 @@ vehicles = [
     "Year": 1994,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53187,13 +53187,13 @@ vehicles = [
     "Year": 1994,
     "Make": "GMC",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "GMC",
     "Model": "3500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53205,13 +53205,13 @@ vehicles = [
     "Year": 1994,
     "Make": "GMC",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "GMC",
     "Model": "2500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53253,19 +53253,19 @@ vehicles = [
     "Year": 1994,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "Isuzu",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
     "Make": "GMC",
     "Model": "Sonoma Club Coupe Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53397,7 +53397,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Isuzu",
     "Model": "Spacecab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53529,7 +53529,7 @@ vehicles = [
     "Year": 1994,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53541,7 +53541,7 @@ vehicles = [
     "Year": 1994,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53571,7 +53571,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53583,7 +53583,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Macro Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53697,7 +53697,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Nissan",
     "Model": "King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53811,7 +53811,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Nissan",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53859,7 +53859,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Toyota",
     "Model": "T100 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -53967,7 +53967,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Toyota",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1994,
@@ -54015,7 +54015,7 @@ vehicles = [
     "Year": 1994,
     "Make": "Toyota",
     "Model": "Xtra Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54075,7 +54075,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54141,7 +54141,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54183,7 +54183,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54243,7 +54243,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54255,13 +54255,13 @@ vehicles = [
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54273,7 +54273,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54339,7 +54339,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54387,7 +54387,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Dodge",
     "Model": "D350 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54423,7 +54423,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Dodge",
     "Model": "D250 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54447,13 +54447,13 @@ vehicles = [
     "Year": 1993,
     "Make": "Dodge",
     "Model": "D150 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54477,19 +54477,19 @@ vehicles = [
     "Year": 1993,
     "Make": "Dodge",
     "Model": "D350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Dodge",
     "Model": "D150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54501,7 +54501,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Dodge",
     "Model": "D250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54519,13 +54519,13 @@ vehicles = [
     "Year": 1993,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Dodge",
     "Model": "Ram 50 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54639,7 +54639,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54675,7 +54675,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54705,13 +54705,13 @@ vehicles = [
     "Year": 1993,
     "Make": "Ford",
     "Model": "F350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54735,7 +54735,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54747,7 +54747,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54759,7 +54759,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Ford",
     "Model": "F350 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54771,13 +54771,13 @@ vehicles = [
     "Year": 1993,
     "Make": "Ford",
     "Model": "F350 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54801,19 +54801,19 @@ vehicles = [
     "Year": 1993,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "GMC",
     "Model": "2500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54825,7 +54825,7 @@ vehicles = [
     "Year": 1993,
     "Make": "GMC",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54837,7 +54837,7 @@ vehicles = [
     "Year": 1993,
     "Make": "GMC",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54855,7 +54855,7 @@ vehicles = [
     "Year": 1993,
     "Make": "GMC",
     "Model": "3500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54885,7 +54885,7 @@ vehicles = [
     "Year": 1993,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54909,7 +54909,7 @@ vehicles = [
     "Year": 1993,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54939,13 +54939,13 @@ vehicles = [
     "Year": 1993,
     "Make": "GMC",
     "Model": "Sonoma Club Coupe Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
     "Make": "Isuzu",
     "Model": "Spacecab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -54975,7 +54975,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Isuzu",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55047,7 +55047,7 @@ vehicles = [
     "Year": 1993,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55059,7 +55059,7 @@ vehicles = [
     "Year": 1993,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55329,7 +55329,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Macro Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55341,7 +55341,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55359,7 +55359,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Nissan",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55383,7 +55383,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Nissan",
     "Model": "King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55695,7 +55695,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Toyota",
     "Model": "T100 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55737,7 +55737,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Toyota",
     "Model": "Xtra Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55755,7 +55755,7 @@ vehicles = [
     "Year": 1993,
     "Make": "Toyota",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1993,
@@ -55893,7 +55893,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -55905,7 +55905,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "2500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -55923,7 +55923,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -55941,7 +55941,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -55989,13 +55989,13 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "1500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56025,7 +56025,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "3500 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56061,7 +56061,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "S10 Extended Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56139,7 +56139,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Chevrolet",
     "Model": "S10 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56157,7 +56157,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Dodge",
     "Model": "Dakota Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56175,7 +56175,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Dodge",
     "Model": "D250 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56211,7 +56211,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Dodge",
     "Model": "D150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56229,13 +56229,13 @@ vehicles = [
     "Year": 1992,
     "Make": "Dodge",
     "Model": "D250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Dodge",
     "Model": "Dakota Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56265,7 +56265,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Dodge",
     "Model": "Ram 50 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56295,7 +56295,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Dodge",
     "Model": "D150 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56331,13 +56331,13 @@ vehicles = [
     "Year": 1992,
     "Make": "Dodge",
     "Model": "D350 Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Dodge",
     "Model": "D350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56409,19 +56409,19 @@ vehicles = [
     "Year": 1992,
     "Make": "Ford",
     "Model": "F350 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Ford",
     "Model": "Ranger Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Ford",
     "Model": "F150 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56433,13 +56433,13 @@ vehicles = [
     "Year": 1992,
     "Make": "Ford",
     "Model": "F150 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Ford",
     "Model": "F250 Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56463,7 +56463,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Ford",
     "Model": "F350 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56481,13 +56481,13 @@ vehicles = [
     "Year": 1992,
     "Make": "Ford",
     "Model": "Ranger Super Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Ford",
     "Model": "F250 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56517,7 +56517,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Ford",
     "Model": "F350 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56529,7 +56529,7 @@ vehicles = [
     "Year": 1992,
     "Make": "GMC",
     "Model": "Sonoma Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56541,7 +56541,7 @@ vehicles = [
     "Year": 1992,
     "Make": "GMC",
     "Model": "Sonoma Club Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56553,7 +56553,7 @@ vehicles = [
     "Year": 1992,
     "Make": "GMC",
     "Model": "2500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56571,19 +56571,19 @@ vehicles = [
     "Year": 1992,
     "Make": "GMC",
     "Model": "2500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "GMC",
     "Model": "3500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "GMC",
     "Model": "1500 Club Coupe",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56613,19 +56613,19 @@ vehicles = [
     "Year": 1992,
     "Make": "GMC",
     "Model": "3500 Crew Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "GMC",
     "Model": "3500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "GMC",
     "Model": "1500 Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56667,7 +56667,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Isuzu",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56745,7 +56745,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Isuzu",
     "Model": "Spacecab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56823,7 +56823,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Jeep",
     "Model": "Comanche Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -56901,13 +56901,13 @@ vehicles = [
     "Year": 1992,
     "Make": "MAZDA",
     "Model": "B-Series Cab Plus",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "MAZDA",
     "Model": "B-Series Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -57021,7 +57021,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -57045,13 +57045,13 @@ vehicles = [
     "Year": 1992,
     "Make": "Mitsubishi",
     "Model": "Mighty Max Macro Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
     "Make": "Nissan",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -57075,7 +57075,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Nissan",
     "Model": "King Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -57387,7 +57387,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Toyota",
     "Model": "Xtra Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,
@@ -57423,7 +57423,7 @@ vehicles = [
     "Year": 1992,
     "Make": "Toyota",
     "Model": "Regular Cab",
-    "Category": "Pickup"
+    "Category": "Truck"
   },
   {
     "Year": 1992,

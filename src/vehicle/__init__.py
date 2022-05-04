@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 
 from random import choice
+from random import randint
 from faker.providers import BaseProvider
 from .vehicle_dict import vehicles
 from .machine_dict import machinery
+from .boat_data import boats
 
 class VehicleProvider(BaseProvider):
     """
@@ -22,6 +24,11 @@ class VehicleProvider(BaseProvider):
         """
         veh = choice(vehicles)
         return veh
+
+    def vehicle_format(self,formatString):
+        vehicle = self.vehicle_object()
+        vehicleString = formatString.format(Year=vehicle.get('Year'),Make=vehicle.get('Make'),Category=vehicle.get('Category'),Model=vehicle.get('Model'))
+        return vehicleString
 
     def vehicle_year_make_model(self):
         """Returns Year Make Model example: 1997 Nissan 240SX"""
@@ -78,6 +85,11 @@ class VehicleProvider(BaseProvider):
         machine = choice(machinery)
         return machine
 
+    def machine_format(self,formatString):
+        machine = self.machine_object()
+        machineString = formatString.format(Year=machine.get('Year'),Make=machine.get('Make'),Category=machine.get('Category'),Model=machine.get('Model'))
+        return machineString
+
     def machine_year_make_model(self):
         """Returns Year Make Model example: 2008 Caterpillar 5511C"""
         machine = self.machine_object()
@@ -124,3 +136,71 @@ class VehicleProvider(BaseProvider):
         """Returns Category example: Feller Buncher"""
         machine = self.machine_object()
         return machine.get('Category')
+
+    def boat_object(self):
+        """
+        Returns a random boat example:
+        {"Year": 2008, "Make": "AB Inflatables", "Model": "10 ALX", "Category": "Outboard"}
+        """
+        boatMakeIndex = randint(0,len(boats['makes'])-1)
+        boatMake = boats['makes'][boatMakeIndex]['make']
+        boatCatIndex = randint(0,len(boats['makes'][boatMakeIndex]['cats'])-1)
+        boatCat = boats['makes'][boatMakeIndex]['cats'][boatCatIndex]['cat']
+        boatYearIndex = randint(0,len(boats['makes'][boatMakeIndex]['cats'][boatCatIndex]['years'])-1)
+        boatYear = boats['makes'][boatMakeIndex]['cats'][boatCatIndex]['years'][boatYearIndex]['year']
+        boatModelIndex = randint(0,len(boats['makes'][boatMakeIndex]['cats'][boatCatIndex]['years'][boatYearIndex]['models'])-1)
+        boatModel = boats['makes'][boatMakeIndex]['cats'][boatCatIndex]['years'][boatYearIndex]['models'][boatModelIndex]
+        boat = {"Year": boatYear, "Make": boatMake, "Model": boatModel, "Category": boatCat}
+        return boat
+
+    def boat_format(self,formatString):
+        boat = self.boat_object()
+        boatString = formatString.format(Year=boat.get('Year'),Make=boat.get('Make'),Category=boat.get('Category'),Model=boat.get('Model'))
+        return boatString
+
+    def boat_model(self):
+        """Returns Model example: 5511C"""
+        boat = self.boat_object()
+        return boat.get('Model')
+
+    def boat_year_make_model(self):
+        """Returns Year Make Model example: """
+        boat = self.boat_object()
+        year = boat.get('Year')
+        make = boat.get('Make')
+        model = boat.get('Model')
+        return str(year) + ' ' + make + ' ' + model
+
+    def boat_year_make_model_cat(self):
+        """
+        Returns Year Make Model Cat example:
+        2008 Caterpillar 5511C (Feller Buncher)
+        """
+        boat = self.boat_object()
+        year = boat.get('Year')
+        make = boat.get('Make')
+        model = boat.get('Model')
+        cat = boat.get('Category')
+        return str(year) + ' ' + make + ' ' + model + ' (' + cat + ')'
+
+    def boat_make_model(self):
+        """Returns Make Model example: Caterpillar 5511C"""
+        boat = self.boat_object()
+        make = boat.get('Make')
+        model = boat.get('Model')
+        return make + ' ' + model
+
+    def boat_make(self):
+        """Returns Make example: Caterpillar"""
+        boat = self.boat_object()
+        return boat.get('Make')
+
+    def boat_year(self):
+        """Returns Year example: 2008"""
+        boat = self.boat_object()
+        return str(boat.get('Year'))
+
+    def boat_category(self):
+        """Returns Category example: Feller Buncher"""
+        boat = self.boat_object()
+        return boat.get('Category')       

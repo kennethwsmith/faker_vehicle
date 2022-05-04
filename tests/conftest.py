@@ -9,8 +9,7 @@ from faker import Faker
 
 local_path = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(local_path, '..'))
-from src.vehicle import VehicleProvider  # noqa
-
+from src.vehicle import VehicleProvider
 
 @pytest.fixture(scope='module')
 def fake():
@@ -18,13 +17,11 @@ def fake():
     fixture.add_provider(VehicleProvider)
     return fixture
 
-
 @pytest.fixture
 def vehicles():
     from src.vehicle.vehicle_dict import vehicles as vd
     fixture = vd
     return fixture
-
 
 @pytest.fixture
 def years():
@@ -36,7 +33,6 @@ def years():
     fixture = year_dict
     return fixture
 
-
 @pytest.fixture
 def models():
     from src.vehicle.vehicle_dict import vehicles as vd
@@ -47,7 +43,6 @@ def models():
     fixture = model_dict
     return fixture
 
-
 @pytest.fixture
 def categories():
     from src.vehicle.vehicle_dict import vehicles as vd
@@ -57,7 +52,6 @@ def categories():
     cat_dict = list(set(cat_dict))
     fixture = cat_dict
     return fixture
-
 
 @pytest.fixture
 def makes():
@@ -77,7 +71,6 @@ def machinery():
     fixture = ma
     return fixture
 
-
 @pytest.fixture
 def machine_years():
     from src.vehicle.machine_dict import machinery as ma
@@ -87,7 +80,6 @@ def machine_years():
     year_dict = list(set(year_dict))
     fixture = year_dict
     return fixture
-
 
 @pytest.fixture
 def machine_models():
@@ -99,7 +91,6 @@ def machine_models():
     fixture = model_dict
     return fixture
 
-
 @pytest.fixture
 def machine_categories():
     from src.vehicle.machine_dict import machinery as ma
@@ -110,7 +101,6 @@ def machine_categories():
     fixture = cat_dict
     return fixture
 
-
 @pytest.fixture
 def machine_makes():
     from src.vehicle.machine_dict import machinery as ma
@@ -119,4 +109,58 @@ def machine_makes():
         make_dict.append(mach['Make'])
     make_dict = list(set(make_dict))
     fixture = make_dict
+    return fixture
+
+# boats
+
+# @pytest.fixture
+# def boats():
+#     from src.vehicle.boat_data import boats as vd
+#     fixture = vd
+#     return fixture
+
+@pytest.fixture
+def boat_makes():
+    from src.vehicle.boat_data import boats as bo
+    make_dict = []
+    for make in bo['makes']:
+        make_dict.append(make['make'])
+    make_dict = list(set(make_dict))
+    fixture = make_dict
+    return fixture
+
+@pytest.fixture
+def boat_years():
+    from src.vehicle.boat_data import boats as bo
+    year_dict = []
+    for make in bo['makes']:
+        for cat in make['cats']:
+            for year in cat['years']:
+                year_dict.append(int(year['year']))
+    year_dict = list(set(year_dict))
+    fixture = year_dict
+    return fixture
+
+@pytest.fixture
+def boat_models():
+    from src.vehicle.boat_data import boats as bo
+    model_dict = []
+    for make in bo['makes']:
+        for cat in make['cats']:
+            for year in cat['years']:
+                for model in year['models']:
+                    model_dict.append(model)
+    model_dict = list(set(model_dict))
+    fixture = model_dict
+    return fixture
+
+@pytest.fixture
+def boat_categories():
+    from src.vehicle.boat_data import boats as bo
+    cat_dict = []
+    for make in bo['makes']:
+        for cat in make['cats']:
+            cat_dict.append(cat['cat'])
+    cat_dict = list(set(cat_dict))
+    fixture = cat_dict
     return fixture

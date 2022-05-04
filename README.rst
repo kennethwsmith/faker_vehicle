@@ -7,21 +7,33 @@ faker_vehicle is a provider for the `Faker`_ Python package.
 
 It provides vehicle and machinery related fake data for testing purposes:
 
-    * Vehicle Make
-    * Vehicle Model
-    * Vehicle Make / Model
-    * Vehicle Make / Model / Year
-    * Vehicle Make / Model / Category
-    * Vehicle Year
-    * Vehicle Object (you can format)
-
-    * Machine Make
-    * Machine Model
-    * Machine Make / Model
-    * Machine Make / Model / Year
-    * Machine Make / Model / Category
-    * Machine Year
-    * Machine Object (you can format)
+* Vehicle
+    * Make
+    * Model
+    * Make / Model
+    * Make / Model / Year
+    * Make / Model / Category
+    * Year
+    * Formatter (pass in the format using string.format() syntax)
+    * Object (just an object you can use)
+* Machinery
+    * Make
+    * Model
+    * Make / Model
+    * Make / Model / Year
+    * Make / Model / Category
+    * Year
+    * Formatter (pass in the format using string.format() syntax)
+    * Object (just an object you can use)
+* Boats
+    * Make
+    * Model
+    * Make / Model
+    * Make / Model / Year
+    * Make / Model / Category
+    * Year
+    * Formatter (pass in the format using string.format() syntax)
+    * Object (just an object you can use)
 
 Usage
 -----
@@ -49,39 +61,68 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     fake = Faker()
     fake.add_provider(VehicleProvider)
 
-    fake.vehicle_year_make_model()
+    # VEHICLES
+
+    print(fake.vehicle_format("My favorite {Category} is a {Model} by {Make} from {Year}"))
+    # My favorite Truck is a F150 SuperCrew Cab by Ford from 2020
+    print(fake.vehicle_year_make_model())
     # 2014 Volkswagen Golf
-    fake.vehicle_year_make_model_cat()
+    print(fake.vehicle_year_make_model_cat())
     # 1996 Dodge Ram Wagon 1500 (Van/Minivan)
-    fake.vehicle_make_model()
+    print(fake.vehicle_make_model())
     # Volvo V40
-    fake.vehicle_make()
+    print(fake.vehicle_make())
     # BMW
-    fake.vehicle_model()
+    print(fake.vehicle_model())
     # SL
-    fake.vehicle_year()
+    print(fake.vehicle_year())
     # 2008
-    fake.vehicle_category()
+    print(fake.vehicle_category())
     # Wagon
-    json.dumps(fake.vehicle_object())
+    print(json.dumps(fake.vehicle_object()))
     # {"Year": 1996, "Make": "Chrysler", "Model": "New Yorker", "Category": "Sedan"}
     
-    fake.machine_year_make_model()
+    # MACHINERY
+
+    print(fake.machine_format("My favorite {Category} is a {Model} by {Make} from {Year}"))
+    # My favorite Wheel Loader is a 304H Waste Handler by John Deere from 2016
+    print(fake.machine_year_make_model())
     # 2008 Caterpillar 5511C
-    fake.machine_year_make_model_cat()
+    print(fake.machine_year_make_model_cat())
     # 2008 Caterpillar 5511C (Feller Buncher)
-    fake.machine_make_model()
+    print(fake.machine_make_model())
     # Caterpillar 5511C
-    fake.machine_make()
+    print(fake.machine_make())
     # Caterpillar
-    fake.machine_model()
+    print(fake.machine_model())
     # 5511C
-    fake.machine_year()
+    print(fake.machine_year())
     # 2008
-    fake.machine_category()
+    print(fake.machine_category())
     # Feller Buncher 
-    json.dumps(fake.machine_object())
+    print(json.dumps(fake.machine_object()))
     # {"Year": 2008, "Make": "Caterpillar", "Model": "5511C", "Category": "Feller Buncher"}
+
+    # BOATS
+    
+    print(fake.boat_format("My favorite {Category} is a {Model} by {Make} from {Year}"))
+    # My favorite Sailboat is a Jack Salmon 14 by Aeromarine from 1967 
+    print(fake.boat_year_make_model())
+    # 2003 Apex Inflatables Panga Sportfish
+    print(fake.boat_year_make_model_cat())
+    # 1979 Albin Marine Inc. Scampi 30 (Sailboat)
+    print(fake.boat_make_model())
+    # Caterpillar 5511C
+    print(fake.boat_make())
+    # Adventure
+    print(fake.boat_model())
+    # Success 200
+    print(fake.boat_year())
+    # 2008
+    print(fake.boat_category())
+    # Sailboat 
+    print(json.dumps(fake.boat_object()))
+    # {"Year": "2003", "Make": "Active Thunder Boats", "Model": "42 AVH", "Category": "Inboard"}
 
 .. |pypi| image:: https://img.shields.io/pypi/v/faker_vehicle.svg?style=flat-square&label=version
     :target: https://pypi.python.org/pypi/faker_vehicle
