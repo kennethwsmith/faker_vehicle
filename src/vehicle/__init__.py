@@ -128,4 +128,4 @@ class VehicleProvider(BaseProvider):
     def machine_number(self);
         """Generates random car number"""
         letters = list('ABCEHKMOPTXY')
-        number = choice(letters) + choice(letters) + str(randint(0, 999)).zfill(3) + choice(letters)
+        number = choice(letters) + str(randint(0, 999)).zfill(3) + choice(letters) + choice(letters)
