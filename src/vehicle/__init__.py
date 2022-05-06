@@ -124,3 +124,8 @@ class VehicleProvider(BaseProvider):
         """Returns Category example: Feller Buncher"""
         machine = self.machine_object()
         return machine.get('Category')
+    
+    def machine_number(self);
+        """Generates random car number"""
+        letters = list('ABCEHKMOPTXY')
+        number = choice(letters) + choice(letters) + str(randint(0, 999)).zfill(3) + choice(letters)
