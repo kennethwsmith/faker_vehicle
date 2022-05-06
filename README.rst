@@ -65,7 +65,7 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     fake.vehicle_category()
     # Wagon
     fake.vehicle_number()
-    # AB123C
+    # A123BC
     json.dumps(fake.vehicle_object())
     # {"Year": 1996, "Make": "Chrysler", "Model": "New Yorker", "Category": "Sedan"}
     
