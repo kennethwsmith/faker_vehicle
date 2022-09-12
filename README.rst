@@ -65,7 +65,7 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     # Wagon
     json.dumps(fake.vehicle_object())
     # {"Year": 1996, "Make": "Chrysler", "Model": "New Yorker", "Category": "Sedan"}
-    
+
     fake.machine_year_make_model()
     # 2008 Caterpillar 5511C
     fake.machine_year_make_model_cat()
@@ -79,7 +79,7 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     fake.machine_year()
     # 2008
     fake.machine_category()
-    # Feller Buncher 
+    # Feller Buncher
     json.dumps(fake.machine_object())
     # {"Year": 2008, "Make": "Caterpillar", "Model": "5511C", "Category": "Feller Buncher"}
 
