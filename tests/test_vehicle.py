@@ -31,6 +31,14 @@ def test_category(fake, categories):
     assert category in categories
 
 
+def test_vehicle_number(fake):
+    number = fake.vehicle_number()
+    assert len(number) == 6
+    assert number[0].isletter()
+    assert number[1:4].isdigit()
+    assert number[4:6].isletter()
+
+
 def test_vehicle_make_model(fake):
     ar_mm = fake.vehicle_make_model().split()
     # check to see if there are 2 words

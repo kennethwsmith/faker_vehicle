@@ -13,6 +13,7 @@ It provides vehicle and machinery related fake data for testing purposes:
     * Vehicle Make / Model / Year
     * Vehicle Make / Model / Category
     * Vehicle Year
+    * Vehicle Number
     * Vehicle Object (you can format)
 
     * Machine Make
@@ -63,6 +64,8 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     # 2008
     fake.vehicle_category()
     # Wagon
+    fake.vehicle_number()
+    # A123BC
     json.dumps(fake.vehicle_object())
     # {"Year": 1996, "Make": "Chrysler", "Model": "New Yorker", "Category": "Sedan"}
 

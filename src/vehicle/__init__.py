@@ -69,6 +69,11 @@ class VehicleProvider(BaseProvider):
         """Returns Category example: SUV"""
         veh = self.vehicle_object()
         return veh.get('Category')
+    
+    def vehicle_number(self):
+        """Generates random car number"""
+        letters = list('ABCEHKMOPTXY')
+        number = choice(letters) + str(randint(0, 999)).zfill(3) + choice(letters) + choice(letters)
 
     def machine_object(self):
         """
