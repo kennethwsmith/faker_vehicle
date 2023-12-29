@@ -49,6 +49,17 @@ class VehicleProvider(BaseProvider):
         make = veh.get('Make')
         model = veh.get('Model')
         return make + ' ' + model
+    
+    def vehicle_make_model_cat(self):
+        """
+        Returns Make Model Cat example:
+        GMC Sierra 1500 Double Cab (Pickup)
+        """
+        veh = self.vehicle_object()
+        make = veh.get('Make')
+        model = veh.get('Model')
+        cat = veh.get('Category')
+        return make + ' ' + model + ' (' + cat + ')'
 
     def vehicle_make(self):
         """Returns Make example: Lincoln"""
@@ -104,6 +115,17 @@ class VehicleProvider(BaseProvider):
         make = machine.get('Make')
         model = machine.get('Model')
         return make + ' ' + model
+    
+    def machine_make_model_cat(self):
+        """
+        Returns Make Model Cat example:
+        Caterpillar 5511C (Feller Buncher)
+        """
+        machine = self.machine_object()
+        make = machine.get('Make')
+        model = machine.get('Model')
+        cat = machine.get('Category')
+        return make + ' ' + model + ' (' + cat + ')'
 
     def machine_make(self):
         """Returns Make example: Caterpillar"""

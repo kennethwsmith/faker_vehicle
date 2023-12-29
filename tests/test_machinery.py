@@ -32,6 +32,11 @@ def test_machine_make_model(fake):
     # check to see if there are 2 words
     assert len(ar_mm) >= 1
 
+def test_machine_make_model_cat(fake):
+    ar_ymmc = fake.machine_make_model_cat().split()
+    # check to see if there are 3 words
+    assert len(ar_ymmc) >= 2
+
 def test_machine_year_make_model(fake):
     ar_ymm = fake.machine_year_make_model().split()
     # check to see if there are 3 words
