@@ -55,6 +55,8 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     # 1996 Dodge Ram Wagon 1500 (Van/Minivan)
     fake.vehicle_make_model()
     # Volvo V40
+    fake.vehicle_make_model_cat()
+    # GMC Sierra 1500 Double Cab (Pickup)
     fake.vehicle_make()
     # BMW
     fake.vehicle_model()
@@ -72,6 +74,8 @@ Add the ``VehicleProvider`` to your ``Faker`` instance:
     # 2008 Caterpillar 5511C (Feller Buncher)
     fake.machine_make_model()
     # Caterpillar 5511C
+    fake.machine_make_model_cat()
+    # Caterpillar 5511C (Feller Buncher)
     fake.machine_make()
     # Caterpillar
     fake.machine_model()
