@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
-from random import choice
 from faker.providers import BaseProvider
 from .vehicle_dict import vehicles
 from .machine_dict import machinery
+
 
 class VehicleProvider(BaseProvider):
     """
@@ -20,7 +20,7 @@ class VehicleProvider(BaseProvider):
         Returns a random vehicle dict example:
         {"Year": 2008, "Make": "Jeep", "Model": "Wrangler", "Category": "SUV"}
         """
-        veh = choice(vehicles)
+        veh = self.generator.random.choice(vehicles)
         return veh
 
     def vehicle_year_make_model(self):
@@ -49,7 +49,7 @@ class VehicleProvider(BaseProvider):
         make = veh.get('Make')
         model = veh.get('Model')
         return make + ' ' + model
-    
+
     def vehicle_make_model_cat(self):
         """
         Returns Make Model Cat example:
@@ -80,18 +80,28 @@ class VehicleProvider(BaseProvider):
         """Returns Category example: SUV"""
         veh = self.vehicle_object()
         return veh.get('Category')
-    
+
+    def random_letter(self):
+        letters = list('ABCEHKMOPTXY')
+        return self.generator.random.choice(letters)
+
     def vehicle_number(self):
         """Generates random car number"""
-        letters = list('ABCEHKMOPTXY')
-        number = choice(letters) + str(randint(0, 999)).zfill(3) + choice(letters) + choice(letters)
+        number = str(self.random_number(digits=3, fix_len=3))
+        vehicle_number = (
+            self.random_letter() +
+            number +
+            self.random_letter() +
+            self.random_letter()
+        )
+        return vehicle_number
 
     def machine_object(self):
         """
         Returns a random machine dict example:
         {"Year": 2008, "Make": "Caterpillar", "Model": "5511C", "Category": "Feller Buncher"}
         """
-        machine = choice(machinery)
+        machine = self.generator.random.choice(machinery)
         return machine
 
     def machine_year_make_model(self):
@@ -120,7 +130,7 @@ class VehicleProvider(BaseProvider):
         make = machine.get('Make')
         model = machine.get('Model')
         return make + ' ' + model
-    
+
     def machine_make_model_cat(self):
         """
         Returns Make Model Cat example:

@@ -7,6 +7,21 @@ def test_vehicles(fake, vehicles):
     assert 'Model' in v.keys()
 
 
+def test_seeded_vehicle_object():
+    from faker import Faker
+    from src.vehicle import VehicleProvider
+
+    def get_seeded_vehicle_object(fake, seed=1):
+        fake.seed_instance(seed)
+        return fake.vehicle_object()
+
+    fake = Faker()
+    fake.add_provider(VehicleProvider)
+    models = [get_seeded_vehicle_object(fake) for _ in range(2)]
+
+    assert all(m == models[0] for m in models)
+
+
 def test_make(fake, makes):
     make = fake.vehicle_make()
     assert len(make) > 1
@@ -34,9 +49,9 @@ def test_category(fake, categories):
 def test_vehicle_number(fake):
     number = fake.vehicle_number()
     assert len(number) == 6
-    assert number[0].isletter()
+    assert number[0].isalpha()
     assert number[1:4].isdigit()
-    assert number[4:6].isletter()
+    assert number[4:6].isalpha()
 
 
 def test_vehicle_make_model(fake):
@@ -44,10 +59,12 @@ def test_vehicle_make_model(fake):
     # check to see if there are 2 words
     assert len(ar_mm) >= 1
 
+
 def test_vehicle_make_model_cat(fake):
     ar_ymmc = fake.vehicle_make_model_cat().split()
     # check to see if there are 3 words
     assert len(ar_ymmc) >= 2
+
 
 def test_vehicle_year_make_model(fake):
     ar_ymm = fake.vehicle_year_make_model().split()
